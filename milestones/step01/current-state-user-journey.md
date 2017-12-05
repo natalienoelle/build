@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Research
+title: Current State User Journey
 published: true
 ---
 
